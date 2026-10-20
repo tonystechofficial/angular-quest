@@ -75,7 +75,7 @@ export function drawCertificate(data: CertificateData): HTMLCanvasElement | null
   );
   ctx.fillStyle = '#6b7a9b';
   ctx.font = `400 20px ${FONT}`;
-  ctx.fillText(`${data.date} · angular-quest.vercel.app`, WIDTH / 2, 560);
+  ctx.fillText(`${data.date} · angular-quest-game.vercel.app`, WIDTH / 2, 560);
   return canvas;
 }
 

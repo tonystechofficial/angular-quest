@@ -6,7 +6,7 @@ The build is red and Nia, the tech lead, needs help modernizing the Workshop. Th
 
 No backend, no account. Progress is stored in `localStorage`.
 
-**Play it:** https://angular-quest.vercel.app
+**Play it:** https://angular-quest-game.vercel.app
 
 ## The three wings
 

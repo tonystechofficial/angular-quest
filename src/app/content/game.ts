@@ -12,7 +12,7 @@ export const GAME = {
   restoredTitle: 'The build is green again',
   restoredCta: 'Build green — claim your certificate',
   repo: 'https://github.com/tonystechofficial/angular-quest',
-  url: 'angular-quest.vercel.app',
+  url: 'angular-quest-game.vercel.app',
   sibling: { name: 'RAG Quest', url: 'https://rag-quest.vercel.app' },
   storageKey: 'angular-quest.progress.v1',
 };
